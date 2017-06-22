@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/1.Scenes/4.Ranking.unity
+  isLoaded: 1
+  isActive: 1
